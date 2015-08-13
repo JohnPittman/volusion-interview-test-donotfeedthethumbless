@@ -4,4 +4,4 @@ Find all image names that have no corresponding thumbail from an array list of a
 
 - git clone https://github.com/JohnPittman/volusion-interview-test-donotfeedthethumbless.git
 - open ~/src/index.html
-- F12 to view the console output.
+- F12 in browser to view the console output.
